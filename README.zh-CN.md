@@ -15,7 +15,7 @@ Omnigent 在 Claude Code、Codex、Cursor、Pi 和您自己编写的代理之上
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omnigent-ai/omnigent/main/docs/images/omnigent-hero.png" alt="Omnigent 编排器及其子代理在一个共享会话中" width="520" />
+  <img src="https://raw.githubusercontent.com/omnigent-ai/omnigent/main/docs/images/omnigent-hero.png" alt="Omnigent 编排器及其子智能体在一个共享会话中" width="520" />
 </p>
 
 ---
