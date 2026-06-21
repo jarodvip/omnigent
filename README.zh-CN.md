@@ -4,7 +4,7 @@
 
 ### 适用于所有 AI 代理的元工具
 
-Omnigent 在 Claude Code、Codex、Cursor、Pi 和您自己编写的代理之上提供了一个通用层：无需重写即可交换或组合工具，通过策略和沙箱控制它们，并从任何设备在同一实时会话中实时协作。
+Omnigent 在 Claude Code、Codex、Cursor、Pi 和您自己编写的智能体之上提供了一个通用层：无需重写即可更换 Harness，并通过策略和沙箱管理，也可从任何设备在同一会话中实时协作。
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/omnigent-ai/omnigent/blob/main/LICENSE)
 ![Status: alpha](https://img.shields.io/badge/status-alpha-orange.svg)
